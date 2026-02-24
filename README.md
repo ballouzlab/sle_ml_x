@@ -1,8 +1,9 @@
 ##  X chromosome transcriptional signatures in systemic lupus erythematosus: a machine learning analysis
 
 This is the repository for the work:  
-_Machine learning reveals X chromosome transcriptional signatures that predict systemic lupus erythematosus in females_ 
-Lachlan G. Gray^1,^2, Aiden Telfser^1,^2, Hannah Hu^1,^2,^3, Alisa Kane^3, Elissa K. Deenick^1,^4, Tri Giang Phan^1,^2 and Sara Ballouz^5
+*_Machine learning reveals X chromosome transcriptional signatures that predict systemic lupus erythematosus in females_* 
+
+Lachlan G. Gray <sup>1,2</sup>, Aiden Telfser  <sup>1,2</sup>, Hannah Hu <sup>1,2,3</sup>, Alisa Kane <sup>3</sup>, Elissa K. Deenick  <sup>1,4</sup>, Tri Giang Phan <sup>1,2</sup> and Sara Ballouz <sup>5</sup>
 1.	Precision Immunology Program, Garvan Institute of Medical Research, Sydney NSW, Australia
 2.	St Vincent’s Healthcare Clinical Campus, School of Clinical Medicine, Faculty of Medicine and Health, UNSW Sydney, Sydney, NSW, Australia
 3.	Department of Immunology, Allergy and HIV, St Vincent’s Hospital, Sydney, NSW, Australia
