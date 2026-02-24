@@ -1,11 +1,12 @@
-# Machine learning reveals X chromosome transcriptional signatures that predict systemic lupus erythematosus in females
+This is the repository for the work:  
+_Machine learning reveals X chromosome transcriptional signatures that predict systemic lupus erythematosus in females_ 
 Lachlan G. Gray1,2, Aiden Telfser1,2, Hannah Hu1,2,3, Alisa Kane, Elissa K. Deenick1,4, Tri Giang Phan1,2 and Sara Ballouz5*
 1.	Precision Immunology Program, Garvan Institute of Medical Research, Sydney NSW, Australia
 2.	St Vincent’s Healthcare Clinical Campus, School of Clinical Medicine, Faculty of Medicine and Health, UNSW Sydney, Sydney, NSW, Australia
 3.	Department of Immunology, Allergy and HIV, St Vincent’s Hospital, Sydney, NSW, Australia
 4.	Kirby Institute, Faculty of Medicine and Health, UNSW Sydney, Sydney, NSW, Australia
 5.	School of Computer Science and Engineering, Faculty of Engineering, UNSW Sydney, Sydney, NSW, Australia
-* Correspondence: Sara Ballouz; s.ballouz@unsw.edu.au 
+ 
 
 ### Abstract
 #### Background
