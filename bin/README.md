@@ -17,11 +17,8 @@ This pipeline implements a multi-model classification framework consisting of:
 4. **Independent validation** (`predict_independent_SLE.py`) — Evaluation on an independent cohort
 5. **Interpretability** (`SHAP.py`) — SHAP beeswarm plots for feature importance
 6. **Visualisation** (`plot.all.curves.py`) — Overlaid PR curves for all models
-7. **Statistical analysis** (R scripts) — Four focused analysis scripts:
-   - `01_model_comparison.R` — Individual and ensemble model metric comparison, boxplots, and statistical tests
-   - `02_feature_concordance.R` — Feature selection consistency across CV splits, heatmaps, cell composition (propeller), and escape gene enrichment
-   - `03_independent_validation.R` — Independent cohort prediction metrics with confidence intervals
-   - `04_chrX_feature_analysis.R` — chrX feature heatmaps, Jaccard similarity, DEG overlap, escapee analysis, and XIST/TSIX correlation
+7. **Statistical analysis** 
+   - `analysis_pipeline.R`
 
 ## Requirements
 
